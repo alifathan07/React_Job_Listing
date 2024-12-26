@@ -1,0 +1,32 @@
+{
+  "jobs": [
+    {
+      "id": "1e9e44cb-4b17-42a5-a14c-debf8ec1b890",
+      "title": "Fathan ALi",
+      "type": "Part-Time",
+      "description": "teaching ai in a private school ",
+      "location": "casablanca",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "oppo",
+        "description": "We Are a Agency for making ai softwares ",
+        "contactEmail": "asli@gmail.com",
+        "contactPhone": "0679861809"
+      }
+    },
+    {
+      "id": "75643ce7-e708-4e87-9dff-b989b8ec77a5",
+      "title": "ggg",
+      "type": "Remote",
+      "description": "ggg",
+      "location": "casablanca",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Ai",
+        "description": "AIggggg",
+        "contactEmail": "alifathan0210@gmail.com",
+        "contactPhone": "0698361022"
+      }
+    }
+  ]
+}
